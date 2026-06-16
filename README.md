@@ -85,13 +85,6 @@ I'm a **creative front-end developer** who loves the spot where engineering meet
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=etb811ac&show_icons=true&hide_border=true&title_color=E94560&icon_color=FF7B00&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etb811ac&layout=compact&hide_border=true&title_color=E94560&theme=tokyonight" />
-</p>
-
 <p align="center">
   <i>Thanks for stopping by — take a look around and say hi on <a href="https://www.linkedin.com/in/esteban-acu%C3%B1a/">LinkedIn</a> 👋</i>
 </p>
