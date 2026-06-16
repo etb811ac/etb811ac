@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:e94560,100:ff7b00&height=200&section=header&text=Esteban%20Acu%C3%B1a&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Creative%20Front-End%20Developer&descAlignY=60&descSize=20" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:e94560,100:ff7b00&height=200&section=header&text=Esteban%20Acu%C3%B1a&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=20" alt="header"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=600&lines=Building+where+code+meets+craft.;Three.js+%26+WebGL+experiments.;Full-stack+web+with+React+%26+Next.js;eLearning+experiences+%40+SweetRush" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=620&lines=Full-stack+developer%2C+end+to+end.;Front-end+%2B+back-end+with+React%2C+Next.js+%26+Python;Building+AI-powered+web+apps.;Three.js+%26+WebGL+experiments." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -15,12 +15,12 @@
 
 ### 👋 Hey, I'm Esteban
 
-I'm a **creative front-end developer** who loves the spot where engineering meets design — interactive 3D, smooth motion, and interfaces that feel alive. By day I build **eLearning experiences at SweetRush**; off the clock I'm deep in **Three.js & WebGL**, turning shaders and particles into things you can play with in the browser.
+I'm a **full-stack developer** who builds web products end to end — from clean, scalable back-ends to polished, interactive front-ends. I'm especially into **AI-powered apps** and the spot where solid engineering meets great design.
 
-- 🎨 I build **interactive 3D & WebGL** with Three.js, GLSL, and React Three Fiber
-- 🧩 I ship **full-stack web apps** with React, Next.js & TypeScript
-- 🤖 I like wiring up **AI features** (my portfolio has a Claude-powered chat)
-- 🌱 Currently going deeper into shaders, motion design, and creative coding
+- 🧩 I ship **full-stack web apps** — React, Next.js & TypeScript on the front, **Python** & APIs on the back
+- 🤖 I build **AI features** end to end — LLM integrations and assistants (my portfolio has a Claude-powered chat)
+- 🎨 I bring interfaces to life with **interactive 3D & WebGL** (Three.js, GLSL, React Three Fiber)
+- ⚙️ I care about the whole stack: data, APIs, performance, and UX
 
 ---
 
@@ -72,8 +72,11 @@ I'm a **creative front-end developer** who loves the spot where engineering meet
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude%20%2F%20LLMs-D97757?logo=anthropic&logoColor=white">
   <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white">
   <img src="https://img.shields.io/badge/GLSL-5586A4">
   <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white">
