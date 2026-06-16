@@ -29,14 +29,14 @@ I'm a **full-stack developer** who builds web products end to end — from clean
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://galaxy-generator.netlify.app/">
+      <a href="https://galaxy-generator-acuna.netlify.app/">
         <img src="https://raw.githubusercontent.com/etb811ac/galaxy-generator/main/.github/preview.gif" width="100%"><br>
         <b>🌌 Galaxy Generator</b>
       </a>
       <br><sub>Procedural particle galaxy · Three.js</sub>
     </td>
     <td width="50%" align="center">
-      <a href="https://threejs-physics.netlify.app/">
+      <a href="https://physics-threejs-eacuna.netlify.app/">
         <img src="https://raw.githubusercontent.com/etb811ac/threejs-physics/main/.github/preview.gif" width="100%"><br>
         <b>🎳 Physics Sandbox</b>
       </a>
@@ -45,7 +45,7 @@ I'm a **full-stack developer** who builds web products end to end — from clean
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://hunted-house.netlify.app/">
+      <a href="https://hunted-house-e-acuna.netlify.app/">
         <img src="https://raw.githubusercontent.com/etb811ac/hunted-house/main/.github/preview.gif" width="100%"><br>
         <b>🏚️ Haunted House</b>
       </a>
