@@ -24,25 +24,9 @@ I'm a **full-stack developer** who builds web products end to end — from clean
 
 ---
 
-### 🚀 Featured Projects
+### 🧪 Playground & Experiments
 
 <table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://galaxy-generator-acuna.netlify.app/">
-        <img src="https://raw.githubusercontent.com/etb811ac/galaxy-generator/main/.github/preview.gif" width="100%"><br>
-        <b>🌌 Galaxy Generator</b>
-      </a>
-      <br><sub>Procedural particle galaxy · Three.js</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://physics-threejs-eacuna.netlify.app/">
-        <img src="https://raw.githubusercontent.com/etb811ac/threejs-physics/main/.github/preview.gif" width="100%"><br>
-        <b>🎳 Physics Sandbox</b>
-      </a>
-      <br><sub>Real-time physics · Three.js + Cannon.js</sub>
-    </td>
-  </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://hunted-house-e-acuna.netlify.app/">
@@ -52,11 +36,36 @@ I'm a **full-stack developer** who builds web products end to end — from clean
       <br><sub>Lights, shadows & ghosts · Three.js</sub>
     </td>
     <td width="50%" align="center">
-      <a href="https://3d-text-threejs-etb811ac.netlify.app/">
-        <img src="https://raw.githubusercontent.com/etb811ac/3d-text-threejs/main/.github/preview.gif" width="100%"><br>
-        <b>🔤 3D Text Playground</b>
+      <a href="https://galaxy-v2-eacuna.netlify.app/">
+        <img src="https://raw.githubusercontent.com/etb811ac/galaxy-v2-threejs/main/.github/preview.gif" width="100%"><br>
+        <b>✨ Galaxy v2 — Shaders</b>
       </a>
-      <br><sub>3D typography & matcaps · Three.js</sub>
+      <br><sub>GPU galaxy in custom GLSL · Three.js</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://sea-shader-eacuna.netlify.app/">
+        <img src="https://raw.githubusercontent.com/etb811ac/sea-shader-threejs/main/.github/preview.gif" width="100%"><br>
+        <b>🌊 Sea Shader</b>
+      </a>
+      <br><sub>Animated ocean in GLSL · Three.js</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://threejs-model-animation-eacuna.netlify.app/">
+        <img src="https://raw.githubusercontent.com/etb811ac/threejs-model-animations/main/.github/preview.gif" width="100%"><br>
+        <b>🦊 Animated Model</b>
+      </a>
+      <br><sub>glTF Fox w/ animation mixer · Three.js</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://realistic-model-eacuna.netlify.app/">
+        <img src="https://raw.githubusercontent.com/etb811ac/realistic-model-threejs/main/.github/preview.png" width="50%"><br>
+        <b>🪖 Realistic Model</b>
+      </a>
+      <br><sub>PBR glTF rendering w/ environment maps · Three.js</sub>
     </td>
   </tr>
 </table>
